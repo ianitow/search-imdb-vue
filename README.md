@@ -2,7 +2,7 @@
 
 A search in api of imdb using AXIOS and Quasar Framework
 
-
+![Demo of resource](./demo.gif)
 ## Install the dependencies
 ```bash
 npm install
