@@ -1,6 +1,6 @@
 #  (imdb-search)
 
-A search in api of imdb
+A search in api of imdb using AXIOS and Quasar Framework
 
 ## Install the dependencies
 ```bash
