@@ -3,7 +3,7 @@
     <q-card class="my-card">
       <img
         :src="src"
-        style="max-height:200px; max-width:200px;"
+        style="height:200px; width:200px;"
       >
       <q-card-section>
         <div class="text-h6">{{name}}</div>
