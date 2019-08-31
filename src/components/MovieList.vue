@@ -5,6 +5,7 @@
       :object="valor"
       :key="valor.title"
     />
+
   </div>
 
 </template>

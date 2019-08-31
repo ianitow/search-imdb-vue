@@ -30,7 +30,6 @@
         v-else-if="this.search == 'founded'"
         class="full-width text-center"
       >Filmes encontrados</h6>
-
       <MovieList :data="movies" />
     </div>
   </div>

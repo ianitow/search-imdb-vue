@@ -2,6 +2,8 @@
 
 A search in api of imdb
 
+![](demo.gif)
+
 ## Install the dependencies
 ```bash
 npm install
